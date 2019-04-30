@@ -8,3 +8,9 @@ My PBL contribution list
 | 아이템 타격시 변경|[#431]https://github.com/inureyes/gradios/issues/431|
 https://github.com/inureyes/gradios/pull/439|
 및 여러 버그와 잡다한 것들(시간 관계상 생략하겠습니다)
+
+Idea for project
+================
+
+ * make bombs
+ * make boss
